@@ -40,6 +40,7 @@ I enjoy experimenting with models, exploring how AI systems work, and using AI c
 ## 🏗️ ML Engineering Roadmap
 
 ### 01. Oxford-IIIT Pet Classification
+
 **Status: Completed ✅**
 
 - Built a CNN-based image classification model.
@@ -47,6 +48,7 @@ I enjoy experimenting with models, exploring how AI systems work, and using AI c
 - Explored multiclass classification across 37 pet categories.
 
 ### 02. Model Training & Deployment
+
 **Status: Completed ✅**
 
 - Implemented transfer learning with ResNet-18.
@@ -55,11 +57,13 @@ I enjoy experimenting with models, exploring how AI systems work, and using AI c
 - Worked with PyTorch, Torchvision, and GPU-accelerated training.
 
 ### 03. DocQuery-AI
+
 **Status: In Progress 🔨**
 
 A developer-focused RAG system that answers technical questions using documentation.
 
 **Learning objectives**
+
 - Document ingestion and preprocessing.
 - Chunking strategies and retrieval quality.
 - Semantic search and hybrid retrieval.
@@ -68,24 +72,24 @@ A developer-focused RAG system that answers technical questions using documentat
 
 ## 🧰 Tech Stack
 
-**Languages**
+### Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java" alt="Python, C++, C and Java"/>
 </p>
 
-**Machine Learning & AI**
+### Machine Learning & AI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv" alt="PyTorch and OpenCV"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/Scikit--learn-Machine%20Learning-orange?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
   <img src="https://img.shields.io/badge/RAG-Exploring-8A2BE2?style=flat" alt="RAG"/>
 </p>
 
-**Tools & Development**
+### Tools & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,powershell,mysql" alt="Development tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code"/>
   <img src="https://img.shields.io/badge/AI%20Coding-Codex-111111?style=flat&logo=openai&logoColor=white" alt="Codex"/>
 </p>
 
@@ -110,24 +114,6 @@ A developer-focused RAG system that answers technical questions using documentat
   <img src="https://streak-stats.demolab.com?user=ApexHyper2007&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ApexHyper2007&theme=tokyo-night&hide_border=true" alt="Contribution activity graph" width="100%"/>
-
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/ApexHyper2007/ApexHyper2007/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake"/>
-
-</div>
-
-*Requires a GitHub Actions workflow to generate and publish the animation.*
 
 ## 🌱 What's Next?
 
